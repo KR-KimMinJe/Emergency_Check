@@ -26,7 +26,7 @@
 *    기존의 신고 방식보다 제스처를 통한 신속한 위급 상황 전파 가능
 
 # Ⅵ. 위험 상황의 객체 감지 결과
-<img src="https://user-images.githubusercontent.com/48273803/98038589-b6f2ef00-1e60-11eb-8384-3520a1c4224c.png" width="300" hieght="300">
+<img src="https://user-images.githubusercontent.com/73852272/98398344-2d336380-20a4-11eb-9da9-99ee1a9309b0.png" width="300" hieght="300">
 
 # Ⅶ. Application
 *    위험 상황 시 UI<br>
